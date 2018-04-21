@@ -1,0 +1,186 @@
+body{
+  background-color: #21c8ff;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.cs-background{
+  background-color: white;
+}
+.cs-margin-top{
+  margin-top: 200px;
+}
+
+.cs-title-shoes{
+  color: #21c8ff;
+  font-weight: bold;
+}
+.cs-list li{
+  list-style: none;
+  float: left;
+}
+.items{
+  margin-right: 30px;
+}
+.cs-label{
+  width: 100%;
+  background-color: #95fff4;
+  margin-top: 50px;
+  height: 70px;
+}
+.cs-text-right{
+  float: right;
+  padding-right: 30px;
+  color: #d93a76;
+}
+.cs-text-left{
+  float: left;
+  padding-left: 30px;
+}
+.cs-list-btn{
+  margin-right: 30px;
+}
+.cs-height-btn{
+  height: 25px;
+}
+.cs-color1{
+  background-color: #000202;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+}
+.cs-color2{
+  background-color: #b3b2b4;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+}
+.cs-color3{
+  background-color: #eae9e3;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+}
+.cs-color4{
+  background-color: #484cff;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+}
+.cs-color5{
+  background-color: #85172c;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+}
+
+.cs-color1-size{
+  background-color: white;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+.cs-color2-size{
+  background-color: white;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+.cs-color3-size{
+  background-color: white;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+.cs-color4-size{
+  background-color: white;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+.cs-color5-size{
+  background-color: white;
+  border: 0px ;
+  width: 25px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+.cs-size{
+  margin-top: 30px;
+}
+.cs-image-spatu{
+  margin-top: 50px;
+}
+.cs-share{
+  margin-top: 300px;
+}
+.cs-footer-button{
+  margin-top: 50px;
+  float: right;
+}
+.cs-wishlist-button{
+  font-size: 35px;
+  margin-right: 100px;
+
+
+}
+.cs-btn-wishlist{
+  background-color: white;
+  border: 0px;
+  color: #b4345a;
+
+}
+.cs-text-wish-list{
+  margin-top: -39px;
+}
+.cs-btn-tocart{
+  font-size: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #b4345a;
+  border: 0px;
+  color: white;
+}
+.cs-btn-plus{
+  color: #21c8ff;
+  background-color: white;
+  border: 0px;
+}
+.cs-btn-min{
+  margin-left: 30px;
+  color: #21c8ff;
+  background-color: white;
+  border: 0px;
+}
+.cs-angka{
+  margin-top: 0px;
+}
+.cs-star{
+  margin-top: 7px;
+  color: #d93a76;
+  font-size: 20px;
+}
